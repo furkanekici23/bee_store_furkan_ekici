@@ -1,0 +1,1 @@
+ C:\\Users\\Lenovo\\bee_store-main\\.dart_tool\\flutter_build\\f931ac8698a0135eff38f75158bdf484\\native_assets.yaml: 
