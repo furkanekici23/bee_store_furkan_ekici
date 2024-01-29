@@ -48,8 +48,7 @@ class MyApp extends StatelessWidget {
             const SizedBox(height: 24),
             Padding(
               //search kısmı
-              padding: EdgeInsets.all(
-                  16.0), //all hem sağ hem sol yapıyor ,only(left:16.0) diyebilirdik.
+              padding: EdgeInsets.all(16.0),
               child: TextField(
                 decoration: InputDecoration(
                   hintText: "Search the product you are looking for...",
